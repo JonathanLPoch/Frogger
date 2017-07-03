@@ -1,2 +1,0 @@
-INDEX VERSION 1.130+/Users/JonathanPoch/Google Drive/Flash Drive Backup/FroggerWorkspace2/FroggerProject2/.metadata/.plugins/org.eclipse.jdt.core
-1175494123.index
